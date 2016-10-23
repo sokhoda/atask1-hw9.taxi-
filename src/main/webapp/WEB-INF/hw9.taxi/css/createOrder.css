@@ -1,0 +1,16 @@
+table{
+    margin: 1em 1em 1em 4em;
+    display: inline-table;
+    width: 1000px
+}
+th, tr {
+    border-left-width: 2px;
+    border-bottom-width: 5px;
+
+}
+
+label{
+    margin-left: 1em;
+    text-align: left;
+    max-width: 10em;
+}
